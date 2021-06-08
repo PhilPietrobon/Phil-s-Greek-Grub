@@ -1,0 +1,22 @@
+body {
+  font-family: "tahoma";
+  color: blue;
+  background-color: azure
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 3em
+}
+
+h2 {
+  color: rgb(5, 137, 189);
+  font-size: 2em
+}
+
+h3 {
+  color: skyblue;
+  font-size: 1em
+  
+}
